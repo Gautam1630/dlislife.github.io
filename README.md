@@ -1,2 +1,5 @@
-# dlislife.github.io
-DL_group_IITBHU
+# DeepLearningIslife!!!
+
+Hi Folks,
+
+Welcome to our page :) 
